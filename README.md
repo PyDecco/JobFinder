@@ -20,7 +20,7 @@
 
 ## Recursos
 [//]: # (Add the features of your project here:)
-Este jogo apresenta conceitos para um desenvolvimento Web como :
+Essa plataforma apresenta conceitos para um desenvolvimento Web como :
 
 * CSS
 * HTML
