@@ -36,7 +36,7 @@ Essa plataforma apresenta conceitos para um desenvolvimento Web como :
 
 1. Clone o respositorio `git clone https://github.com/PyDecco/JobFinder.git`
 2. Vá até o diretorio apropriado `cd JobFInder`<br />
-3. 3. Run `npm` para instalar as dependencias<br />
+3. Run `npm` para instalar as dependencias<br />
 4. Run `lerna bootstrap` para instalar as packpages dependencia
 
 ## Utilizando o Web server 
